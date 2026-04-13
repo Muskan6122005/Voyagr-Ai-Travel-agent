@@ -1,0 +1,11 @@
+# Python
+backend/__pycache__/
+backend/.venv/
+backend/.env
+
+# Mac OS
+.DS_Store
+
+# Temporary Database
+# Optionally uncomment to prevent pushing the local database
+# backend/trips.db
