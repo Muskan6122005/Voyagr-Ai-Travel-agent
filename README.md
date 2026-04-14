@@ -1,6 +1,6 @@
 # Voyagr - AI Travel Agent ✈️
 
-**🌍 Live Demo:** [https://grand-twilight-d24778.netlify.app/](https://grand-twilight-d24778.netlify.app/)
+**🌍 Live Demo:** [[https://grand-twilight-d24778.netlify.app/](https://grand-twilight-d24778.netlify.app/](https://voyagrai.netlify.app/))
 
 Voyagr is a full-stack, AI-powered travel booking application that provides a modern, conversational interface for planning and booking trips. It uses the Groq API (Llama 3) to process natural language requests, offer tailored flight and hotel options, and finalize itinerary bookings, which are then saved persistently.
 
